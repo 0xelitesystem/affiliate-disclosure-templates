@@ -18,7 +18,7 @@ Here are the products I mentioned + my affiliate links (I earn a small commissio
 - [PRODUCT 2]: [LINK]
 - [PRODUCT 3]: [LINK]
 
-Honest reviews, not sponsored — I bought these myself.
+Honest reviews, not sponsored, I bought these myself.
 ```
 
 ### Sponsor coupon pinned

@@ -65,11 +65,11 @@ Most creators want to comply but don't want to write 5 lawyer-vetted sentences f
 
 The FTC consistently emphasizes:
 
-1. **Clear** — written in plain language a typical viewer/reader will understand
-2. **Conspicuous** — placed where people will notice it BEFORE engaging with the recommendation
-3. **Unavoidable** — not buried in long descriptions, not behind a "more" link
-4. **Up front** — at or near the start of the relevant content, not at the end
-5. **Specific** — name the relationship type ("paid sponsorship", "affiliate link"), not just `#ad` (though `#ad` is acceptable when nothing else fits the medium)
+1. **Clear**, written in plain language a typical viewer/reader will understand
+2. **Conspicuous**, placed where people will notice it BEFORE engaging with the recommendation
+3. **Unavoidable**, not buried in long descriptions, not behind a "more" link
+4. **Up front**, at or near the start of the relevant content, not at the end
+5. **Specific**, name the relationship type ("paid sponsorship", "affiliate link"), not just `#ad` (though `#ad` is acceptable when nothing else fits the medium)
 
 Hashtags like `#sponsored` or `#ad` are acceptable on social posts when they are clearly visible, not buried in a hashtag wall, and used in addition to the actual disclosure when space allows.
 
@@ -97,6 +97,6 @@ MIT. Copy-paste-customize freely.
 
 ## Related
 
-- [product-review-honesty-guide](https://github.com/0xelitesystem/product-review-honesty-guide) — guidance for honest product reviews
-- [video-description-templates](https://github.com/0xelitesystem/video-description-templates) — full description box structures
-- [legal-pages-starter](https://github.com/0xelitesystem/legal-pages-starter) — terms, privacy, cookie templates
+- [product-review-honesty-guide](https://github.com/0xelitesystem/product-review-honesty-guide), guidance for honest product reviews
+- [video-description-templates](https://github.com/0xelitesystem/video-description-templates), full description box structures
+- [legal-pages-starter](https://github.com/0xelitesystem/legal-pages-starter), terms, privacy, cookie templates

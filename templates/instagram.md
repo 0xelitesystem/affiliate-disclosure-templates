@@ -25,7 +25,7 @@ Use Instagram's built-in "Paid partnership with @brand" tag (Settings -> Account
 
 ### Gifted product
 
-> Gifted by @brand — opinions are mine.
+> Gifted by @brand, opinions are mine.
 
 (Use this even when you weren't paid. The FTC considers free product a material connection.)
 

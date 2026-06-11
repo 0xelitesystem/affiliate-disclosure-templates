@@ -12,7 +12,7 @@ LinkedIn's audience expects more formal language than other platforms. Disclose 
 
 ### Affiliate / referral link
 
-> **Disclosure: Includes a referral link — I receive credit if you sign up.**
+> **Disclosure: Includes a referral link, I receive credit if you sign up.**
 >
 > [your post content]
 

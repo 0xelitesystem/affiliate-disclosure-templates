@@ -29,7 +29,7 @@ This video was sponsored by [BRAND]. All opinions are my own. See more about [PR
 ### Mix of affiliate and sponsored
 
 ```
-Sponsored by [SPONSOR]. Other links in this description may be affiliate links — I earn a commission if you buy through them at no cost to you.
+Sponsored by [SPONSOR]. Other links in this description may be affiliate links, I earn a commission if you buy through them at no cost to you.
 
 [your normal description here]
 ```

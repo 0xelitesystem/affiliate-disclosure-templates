@@ -12,7 +12,7 @@ The video has a sponsored segment within otherwise independent content. The disc
 
 ### Tested-the-product version
 
-> "I want to tell you about [BRAND] who sponsored today's video. I've actually been using [PRODUCT] for [time], so this isn't a script — here's what I think."
+> "I want to tell you about [BRAND] who sponsored today's video. I've actually been using [PRODUCT] for [time], so this isn't a script, here's what I think."
 
 ### Discount code version
 

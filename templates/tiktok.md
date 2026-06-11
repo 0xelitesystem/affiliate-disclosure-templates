@@ -17,7 +17,7 @@
 ### Gifted product
 
 - On-screen: "GIFTED BY [BRAND]"
-- Caption: "[BRAND] sent me this — opinions are mine. #gifted"
+- Caption: "[BRAND] sent me this, opinions are mine. #gifted"
 
 ## Why TikTok needs all three
 

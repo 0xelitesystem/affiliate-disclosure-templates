@@ -8,8 +8,8 @@ EPISODE [#]: [TITLE]
 [Brief episode description]
 
 This episode is brought to you by:
-- [SPONSOR 1] — [URL with affiliate code if applicable]
-- [SPONSOR 2] — [URL]
+- [SPONSOR 1], [URL with affiliate code if applicable]
+- [SPONSOR 2], [URL]
 
 Affiliate disclosure: links to products mentioned in this episode may be affiliate links. The podcast earns a commission on purchases at no extra cost to you.
 

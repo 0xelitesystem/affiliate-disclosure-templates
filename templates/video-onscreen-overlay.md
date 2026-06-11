@@ -31,7 +31,7 @@ You want a visual disclosure that's visible regardless of audio (helps viewers w
 
 ### Sponsored review
 
-> Sponsored — paid review
+> Sponsored, paid review
 
 ## Why this matters
 
