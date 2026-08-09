@@ -91,6 +91,10 @@ PRs welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md). The bar:
 - US FTC-aligned (or clearly mark as another jurisdiction)
 - No marketing copy, no "engagement-optimized" language
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT. Copy-paste-customize freely.
